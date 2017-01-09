@@ -1,0 +1,18 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Directory '/Users/kdavin/Workspace/Airbus/PADAWAN/one-atlas-api-mocks/src/main/java/com/airbus/ds/padawan'" />
+    <option name="defaultScopeName" value="Directory '/Users/kdavin/Workspace/Airbus/PADAWAN/one-atlas-api-mocks/src/main/java/com/airbus/ds/padawan'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/kdavin/Workspace/Airbus/PADAWAN/one-atlas-api-mocks/src/main/java/com/airbus/ds/padawan'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.xml</mask>
+      <mask>*.html</mask>
+    </recentFileMasks>
+  </component>
+</application>

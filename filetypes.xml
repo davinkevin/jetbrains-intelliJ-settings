@@ -1,0 +1,23 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="ProjectHomeLoan" type="JavaScript" />
+      <mapping pattern="userManagement" type="JavaScript" />
+      <mapping pattern="fonts" type="PLAIN_TEXT" />
+      <mapping pattern="sofficerc" type="PLAIN_TEXT" />
+      <mapping pattern="eventService" type="PLAIN_TEXT" />
+      <mapping pattern="RequestService" type="PLAIN_TEXT" />
+      <mapping pattern="usermanagement" type="PLAIN_TEXT" />
+      <mapping pattern="login" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="httpheader" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="ldif" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="Dockerfile" />
+    </extensionMap>
+  </component>
+</application>

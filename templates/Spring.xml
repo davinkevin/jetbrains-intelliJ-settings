@@ -1,0 +1,10 @@
+<templateSet group="Spring">
+  <template name="jparepository" value="public interface $NAME$ extends JpaRepository&lt;$CLAZZ$, $ID_CLAZZ$&gt; {&#10;    $END$&#10;}" description="Spring Data JPA Repository" toReformat="true" toShortenFQNames="true" useStaticImport="true" deactivated="true">
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="CLAZZ" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ID_CLAZZ" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

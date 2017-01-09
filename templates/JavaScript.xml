@@ -1,0 +1,22 @@
+<templateSet group="JavaScript">
+  <template name="should" value="it('should $STATMENT$', () =&gt; {&#10;    /* Given */ $END$&#10;    /* When  */&#10;    /* Then  */ &#10;});" description="Unit testing" toReformat="false" toShortenFQNames="true">
+    <variable name="STATMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="descr" value="describe('$TITLE$', () =&gt; {&#10;    $END$&#10;});" description="Jasmine Describe" toReformat="true" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="imp" value="import $VAL$ from '$IMPORT$';&#10;$END$" description="ES6 Import" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="IMPORT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
+</templateSet>
