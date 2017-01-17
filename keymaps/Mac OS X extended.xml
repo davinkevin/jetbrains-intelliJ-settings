@@ -8,10 +8,10 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt d" />
   </action>
   <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="shift ctrl page_up" />
+    <keyboard-shortcut first-keystroke="meta alt page_up" />
   </action>
   <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="shift ctrl page_down" />
+    <keyboard-shortcut first-keystroke="meta alt page_down" />
   </action>
   <action id="Hotswap">
     <keyboard-shortcut first-keystroke="shift meta back_quote" />
