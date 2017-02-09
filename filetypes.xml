@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern="ProjectHomeLoan" type="JavaScript" />
       <mapping pattern="userManagement" type="JavaScript" />
       <mapping pattern="fonts" type="PLAIN_TEXT" />
@@ -17,7 +18,6 @@
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
