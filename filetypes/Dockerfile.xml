@@ -12,7 +12,4 @@
     <keywords3 keywords="install;update;upgrade" />
     <keywords4 keywords="+x;--disabled-password;--force-yes;--gecos;--ingroup;--quiet;-O;-R;-e;-f;-fr;-i;-q;-rf;-y" />
   </highlighting>
-  <extensionMap>
-    <mapping pattern="Dockerfile" />
-  </extensionMap>
 </filetype>
