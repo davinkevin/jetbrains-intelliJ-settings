@@ -14,6 +14,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="httpheader" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="qual" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
