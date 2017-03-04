@@ -14,6 +14,7 @@
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.ir.annotations.Ignore" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations.Getter" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations.Setter" />
+    <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.runtime.options.Option" />
     <EXCLUDED_PACKAGE NAME="org.apache.catalina.User" />
     <EXCLUDED_PACKAGE NAME="org.apache.catalina.realm.JNDIRealm.User" />
     <EXCLUDED_PACKAGE NAME="org.apache.tomcat.jni.User" />
