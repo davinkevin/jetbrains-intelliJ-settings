@@ -32,6 +32,7 @@
     <EXCLUDED_PACKAGE NAME="org.springframework.boot.autoconfigure.security.SecurityProperties.User" />
     <EXCLUDED_PACKAGE NAME="org.springframework.mock.staticmock.AnnotationDrivenStaticEntityMockingControl.verify" />
     <EXCLUDED_PACKAGE NAME="org.springframework.test.util.MatcherAssertionErrors.assertThat" />
+    <EXCLUDED_PACKAGE NAME="sun.tools.asm.Cover" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
