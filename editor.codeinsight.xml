@@ -15,6 +15,7 @@
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.ir.annotations.Ignore" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations.Getter" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations.Setter" />
+    <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.runtime.options.Option" />
     <EXCLUDED_PACKAGE NAME="org.apache.catalina.User" />
     <EXCLUDED_PACKAGE NAME="org.apache.catalina.realm.JNDIRealm.User" />
     <EXCLUDED_PACKAGE NAME="org.apache.tomcat.jni.User" />
@@ -31,6 +32,7 @@
     <EXCLUDED_PACKAGE NAME="org.springframework.boot.autoconfigure.security.SecurityProperties.User" />
     <EXCLUDED_PACKAGE NAME="org.springframework.mock.staticmock.AnnotationDrivenStaticEntityMockingControl.verify" />
     <EXCLUDED_PACKAGE NAME="org.springframework.test.util.MatcherAssertionErrors.assertThat" />
+    <EXCLUDED_PACKAGE NAME="sun.tools.asm.Cover" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
