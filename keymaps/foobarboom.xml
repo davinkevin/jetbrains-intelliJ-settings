@@ -1,0 +1,5 @@
+<keymap version="1" name="foobarboom" parent="Mac OS X 10.5+">
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift meta numpad5" />
+  </action>
+</keymap>
