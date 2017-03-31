@@ -6,6 +6,7 @@
       <mapping pattern="ProjectHomeLoan" type="JavaScript" />
       <mapping pattern="userManagement" type="JavaScript" />
       <mapping pattern="fonts" type="PLAIN_TEXT" />
+      <mapping pattern=".backup_command" type="PLAIN_TEXT" />
       <mapping pattern="sofficerc" type="PLAIN_TEXT" />
       <mapping pattern="eventService" type="PLAIN_TEXT" />
       <mapping pattern="RequestService" type="PLAIN_TEXT" />
