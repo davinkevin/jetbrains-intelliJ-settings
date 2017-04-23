@@ -2,11 +2,11 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern="ProjectHomeLoan" type="JavaScript" />
       <mapping pattern="userManagement" type="JavaScript" />
       <mapping pattern="fonts" type="PLAIN_TEXT" />
       <mapping pattern=".backup_command" type="PLAIN_TEXT" />
+      <mapping pattern=".clang-format" type="PLAIN_TEXT" />
       <mapping pattern="sofficerc" type="PLAIN_TEXT" />
       <mapping pattern="eventService" type="PLAIN_TEXT" />
       <mapping pattern="RequestService" type="PLAIN_TEXT" />
