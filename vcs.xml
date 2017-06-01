@@ -130,6 +130,10 @@
           <option name="url" value="https://github.com/davinkevin/mktd4-kotlin-banana-island.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/davinkevin/vavr-issues.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspace/davinkevin/" />
