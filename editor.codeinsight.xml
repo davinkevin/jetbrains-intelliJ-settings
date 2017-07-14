@@ -4,6 +4,7 @@
     <EXCLUDED_PACKAGE NAME="org.hamcrest.MatcherAssert.assertThat" />
     <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertThat" />
     <EXCLUDED_PACKAGE NAME="org.springframework.test.util.MatcherAssertionErrors.assertThat" />
+    <EXCLUDED_PACKAGE NAME="sun.misc.Version.println" />
     <EXCLUDED_PACKAGE NAME="sun.tools.asm.Cover" />
   </component>
 </application>
