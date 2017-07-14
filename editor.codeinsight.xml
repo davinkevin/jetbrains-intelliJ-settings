@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.runtime.options.Option" />
+    <EXCLUDED_PACKAGE NAME="sun.tools.asm.Cover" />
   </component>
 </application>
