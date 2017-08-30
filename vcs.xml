@@ -134,8 +134,12 @@
           <option name="url" value="https://github.com/davinkevin/vavr-issues.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/davinkevin/ffmpeg-cli-wrapper.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/tmp" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace/github.com/davinkevin" />
   </component>
 </application>
