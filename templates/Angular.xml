@@ -1,0 +1,7 @@
+<templateSet group="Angular">
+  <template name="a-store" value="private store: Store&lt;any&gt;" description="store definition for constructor" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
