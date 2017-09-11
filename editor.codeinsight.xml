@@ -1,6 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="autovalue.shaded.com.google$.common.base.$Predicates.instanceOf" />
+    <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations.Getter" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.runtime.options.Option" />
     <EXCLUDED_PACKAGE NAME="org.apache.http.HttpStatus" />
     <EXCLUDED_PACKAGE NAME="org.codehaus.jackson.JsonProcessingException" />
