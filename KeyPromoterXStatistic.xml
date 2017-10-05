@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Commit Message History">
+        <Item>
+          <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
+          <ShortCut>'⌃M' or '⌘E'</ShortCut>
+          <Description>Commit Message History</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -22,7 +30,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Backend'">
@@ -30,7 +38,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
           <Description>Debug 'Backend'</Description>
-          <Count>22</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -38,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>141</Count>
+          <Count>157</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit...">
@@ -54,7 +62,15 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'⌥F7'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Functional Parameter...">
@@ -101,7 +117,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -152,6 +168,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Solution'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Solution'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'dk in Backend'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -173,7 +197,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>84</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -188,7 +212,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -196,7 +220,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>Run</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Backend'">
@@ -204,7 +228,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Backend'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ItemTest'">
@@ -229,6 +253,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'SixPlayDownloaderTest.should_t...'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Solution'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'Solution'</Description>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'should_call_m3u8_d...()'">
@@ -276,7 +308,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Backend'</Description>
-          <Count>18</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DailyMotionCloudDownloaderTest.should_get_real_url_for_an_item'">
@@ -327,6 +359,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Solution'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Solution'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Structure">
         <Item>
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
@@ -348,7 +388,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
     </option>
