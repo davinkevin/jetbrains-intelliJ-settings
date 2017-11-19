@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>65</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -165,7 +165,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Backend'</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ItemDownloadManagerTest.should_relaunch_a_paused_download'">
@@ -428,7 +428,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Backend'</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DailyMotionCloudDownloaderTest.should_get_real_url_for_an_item'">
@@ -565,6 +565,14 @@
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'⇧⌘F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
