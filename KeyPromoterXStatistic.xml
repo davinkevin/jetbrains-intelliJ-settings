@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>48</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -157,6 +157,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ItemDownloadManagerTest.should_relaunch_a_paused_download'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ItemRepositoryTest.should_find_all_to_download'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ItemRepositoryTest.should_find_all_to_download'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -332,6 +340,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
           <Description>Run 'should_call_m3u8_d...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'should_find_all_to...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
+          <Description>Run 'should_find_all_to...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
