@@ -5,9 +5,11 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="autovalue.shaded.com.google$.common.base.$Predicates.instanceOf" />
     <EXCLUDED_PACKAGE NAME="java.sql.Blob" />
+    <EXCLUDED_PACKAGE NAME="javafx.beans.binding.Bindings.when" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations.Getter" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.runtime.options.Option" />
     <EXCLUDED_PACKAGE NAME="org.apache.http.HttpStatus" />
+    <EXCLUDED_PACKAGE NAME="org.aspectj.lang.annotation.Before" />
     <EXCLUDED_PACKAGE NAME="org.codehaus.jackson.JsonProcessingException" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.MatcherAssert.assertThat" />
     <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertThat" />
