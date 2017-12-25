@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'⌥⌘A'</ShortCut>
+          <Description>Add</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Back">
         <Item>
           <IdeaActionID>Back</IdeaActionID>
@@ -62,7 +70,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'should_run_downloa...()'">
@@ -500,7 +508,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Backend'</Description>
-          <Count>56</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DailyMotionCloudDownloaderTest.should_get_real_url_for_an_item'">
