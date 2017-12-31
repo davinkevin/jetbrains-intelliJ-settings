@@ -142,4 +142,7 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspace/github.com/davinkevin" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+  </component>
 </application>
