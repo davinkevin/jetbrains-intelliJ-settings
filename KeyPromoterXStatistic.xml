@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TransmissionRssApplication'">
@@ -182,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>265</Count>
+          <Count>279</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -205,7 +205,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -285,7 +285,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Application'</Description>
-          <Count>1</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Backend'">
@@ -476,7 +476,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>Run</Description>
-          <Count>51</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application'">
@@ -484,7 +484,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Application'</Description>
-          <Count>7</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Backend'">
@@ -660,7 +660,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Backend'">
@@ -868,7 +868,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>198</Count>
+          <Count>199</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
