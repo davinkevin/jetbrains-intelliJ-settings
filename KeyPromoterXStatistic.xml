@@ -206,7 +206,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>316</Count>
+          <Count>319</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -652,7 +652,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'TransmissionRssApplication'</Description>
-          <Count>68</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'should_call_m3u8_d...()'">
