@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>354</Count>
+          <Count>355</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -496,6 +496,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'java in backend'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'java in backend'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'podcastserver in Backend'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -548,7 +556,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>Run</Description>
-          <Count>66</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application'">
