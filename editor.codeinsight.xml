@@ -8,6 +8,7 @@
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.xsom.impl.scd.Step" />
     <EXCLUDED_PACKAGE NAME="java.sql.Blob" />
     <EXCLUDED_PACKAGE NAME="javafx.beans.binding.Bindings.when" />
+    <EXCLUDED_PACKAGE NAME="javafx.scene.input.DataFormat.URL" />
     <EXCLUDED_PACKAGE NAME="javax.batch.api.chunk.ItemReader" />
     <EXCLUDED_PACKAGE NAME="javax.batch.api.chunk.ItemWriter" />
     <EXCLUDED_PACKAGE NAME="javax.print.DocFlavor.URL" />
@@ -21,6 +22,7 @@
     <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertThat" />
     <EXCLUDED_PACKAGE NAME="org.springframework.test.util.MatcherAssertionErrors.assertThat" />
     <EXCLUDED_PACKAGE NAME="sun.misc.Version.println" />
+    <EXCLUDED_PACKAGE NAME="sun.plugin.javascript.navig.JSType.URL" />
     <EXCLUDED_PACKAGE NAME="sun.tools.asm.Cover" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
