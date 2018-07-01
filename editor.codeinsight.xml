@@ -9,6 +9,7 @@
     <EXCLUDED_PACKAGE NAME="java.sql.Blob" />
     <EXCLUDED_PACKAGE NAME="javafx.beans.binding.Bindings.when" />
     <EXCLUDED_PACKAGE NAME="javax.batch.api.chunk.ItemReader" />
+    <EXCLUDED_PACKAGE NAME="javax.batch.api.chunk.ItemWriter" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations.Getter" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations.Setter" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.runtime.options.Option" />
