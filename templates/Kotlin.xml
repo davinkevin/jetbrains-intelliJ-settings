@@ -1,0 +1,8 @@
+<templateSet group="Kotlin">
+  <template name="should" value="@Test&#10;fun `should $NAME$`() {&#10;    /* Given */&#10;    $END$&#10;    /* When */&#10;    /* Then */&#10;}" description="Test" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
