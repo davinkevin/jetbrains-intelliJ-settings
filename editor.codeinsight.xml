@@ -22,6 +22,7 @@
     <EXCLUDED_PACKAGE NAME="org.hamcrest.MatcherAssert.assertThat" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.classic.Lifecycle" />
     <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertThat" />
+    <EXCLUDED_PACKAGE NAME="org.junit.Test" />
     <EXCLUDED_PACKAGE NAME="org.omg.CORBA.portable.InputStream" />
     <EXCLUDED_PACKAGE NAME="org.omg.CORBA_2_3.portable.InputStream" />
     <EXCLUDED_PACKAGE NAME="org.springframework.test.util.MatcherAssertionErrors.assertThat" />
