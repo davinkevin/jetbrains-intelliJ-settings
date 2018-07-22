@@ -9,6 +9,7 @@
     <EXCLUDED_PACKAGE NAME="java.sql.Blob" />
     <EXCLUDED_PACKAGE NAME="javafx.beans.binding.Bindings.when" />
     <EXCLUDED_PACKAGE NAME="javafx.scene.input.DataFormat.URL" />
+    <EXCLUDED_PACKAGE NAME="javafx.scene.shape.Path" />
     <EXCLUDED_PACKAGE NAME="javax.batch.api.chunk.ItemReader" />
     <EXCLUDED_PACKAGE NAME="javax.batch.api.chunk.ItemWriter" />
     <EXCLUDED_PACKAGE NAME="javax.print.DocFlavor.URL" />
