@@ -29,6 +29,7 @@
     <EXCLUDED_PACKAGE NAME="sun.misc.Version.println" />
     <EXCLUDED_PACKAGE NAME="sun.net.www.URLConnection" />
     <EXCLUDED_PACKAGE NAME="sun.plugin.javascript.navig.JSType.URL" />
+    <EXCLUDED_PACKAGE NAME="sun.rmi.rmic.Names.stubFor" />
     <EXCLUDED_PACKAGE NAME="sun.tools.asm.Cover" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">

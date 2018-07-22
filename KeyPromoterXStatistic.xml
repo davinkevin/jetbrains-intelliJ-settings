@@ -153,6 +153,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'should_retrieve_in...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9' or '⌃⌥⌘D'</ShortCut>
+          <Description>Debug 'should_retrieve_in...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'should_run_downloa...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -262,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>432</Count>
+          <Count>442</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -446,6 +454,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'HelloTest.should return 43'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ImageServiceTest.should_retrieve_information_about_image'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ImageServiceTest.should_retrieve_information_about_image'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ItemDownloadManagerTest.should_relaunch_a_paused_download'">
@@ -653,7 +669,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>590</Count>
+          <Count>594</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -676,7 +692,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>Run</Description>
-          <Count>74</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application'">
@@ -983,6 +999,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ImageServiceTest.should_retrieve_information_about_image'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ImageServiceTest.should_retrieve_information_about_image'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ItunesFinderTest.should_find_url'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1127,6 +1151,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'UrlServiceTest.should get real url after redirection'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'UrlServiceTest.should get real url after redirection'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'UrlServiceTest.should_handle_redirection_even_if_it_is_relative'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1220,7 +1252,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>278</Count>
+          <Count>286</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
