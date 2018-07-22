@@ -28,6 +28,8 @@
     <EXCLUDED_PACKAGE NAME="org.springframework.test.util.MatcherAssertionErrors.assertThat" />
     <EXCLUDED_PACKAGE NAME="sun.misc.Version.println" />
     <EXCLUDED_PACKAGE NAME="sun.net.www.URLConnection" />
+    <EXCLUDED_PACKAGE NAME="sun.nio.cs.StandardCharsets" />
+    <EXCLUDED_PACKAGE NAME="sun.nio.cs.StandardCharsets" />
     <EXCLUDED_PACKAGE NAME="sun.plugin.javascript.navig.JSType.URL" />
     <EXCLUDED_PACKAGE NAME="sun.tools.asm.Cover" />
   </component>
