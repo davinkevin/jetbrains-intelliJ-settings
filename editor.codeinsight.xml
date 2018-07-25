@@ -13,6 +13,7 @@
     <EXCLUDED_PACKAGE NAME="javafx.scene.shape.Path" />
     <EXCLUDED_PACKAGE NAME="javax.batch.api.chunk.ItemReader" />
     <EXCLUDED_PACKAGE NAME="javax.batch.api.chunk.ItemWriter" />
+    <EXCLUDED_PACKAGE NAME="javax.batch.runtime.StepExecution" />
     <EXCLUDED_PACKAGE NAME="javax.print.DocFlavor.URL" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations.Getter" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations.Setter" />
