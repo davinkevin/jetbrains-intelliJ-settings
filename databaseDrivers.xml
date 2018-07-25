@@ -61,6 +61,9 @@
       <option name="schema-control" value="MANUAL" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
+      <library>
+        <url>file://$USER_HOME$/Desktop/postgres-socket-factory-1.0.10-jar-with-dependencies.jar</url>
+      </library>
     </driver>
     <driver id="redshift">
       <artifact name="Redshift" use="true" />
