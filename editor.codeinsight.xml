@@ -7,11 +7,13 @@
     <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xerces.internal.impl.xpath.XPath.Step" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.xsom.impl.scd.Step" />
     <EXCLUDED_PACKAGE NAME="java.sql.Blob" />
+    <EXCLUDED_PACKAGE NAME="javafx.application.Application.launch" />
     <EXCLUDED_PACKAGE NAME="javafx.beans.binding.Bindings.when" />
     <EXCLUDED_PACKAGE NAME="javafx.scene.input.DataFormat.URL" />
     <EXCLUDED_PACKAGE NAME="javafx.scene.shape.Path" />
     <EXCLUDED_PACKAGE NAME="javax.batch.api.chunk.ItemReader" />
     <EXCLUDED_PACKAGE NAME="javax.batch.api.chunk.ItemWriter" />
+    <EXCLUDED_PACKAGE NAME="javax.batch.runtime.StepExecution" />
     <EXCLUDED_PACKAGE NAME="javax.print.DocFlavor.URL" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations.Getter" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations.Setter" />
@@ -22,6 +24,7 @@
     <EXCLUDED_PACKAGE NAME="org.codehaus.jackson.JsonProcessingException" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.MatcherAssert.assertThat" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.classic.Lifecycle" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.validator.internal.util.logging.LoggerFactory" />
     <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertThat" />
     <EXCLUDED_PACKAGE NAME="org.junit.Test" />
     <EXCLUDED_PACKAGE NAME="org.omg.CORBA.portable.InputStream" />
@@ -29,6 +32,8 @@
     <EXCLUDED_PACKAGE NAME="org.springframework.test.util.MatcherAssertionErrors.assertThat" />
     <EXCLUDED_PACKAGE NAME="sun.misc.Version.println" />
     <EXCLUDED_PACKAGE NAME="sun.net.www.URLConnection" />
+    <EXCLUDED_PACKAGE NAME="sun.nio.cs.StandardCharsets" />
+    <EXCLUDED_PACKAGE NAME="sun.nio.cs.StandardCharsets" />
     <EXCLUDED_PACKAGE NAME="sun.plugin.javascript.navig.JSType.URL" />
     <EXCLUDED_PACKAGE NAME="sun.rmi.rmic.Names.stubFor" />
     <EXCLUDED_PACKAGE NAME="sun.tools.asm.Cover" />
