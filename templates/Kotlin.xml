@@ -5,4 +5,15 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="beforeEach" value="@BeforeEach&#10;fun beforeEach() {&#10;    $END$&#10;}" description="Before Each on jUnit 5" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="nested" value="@Nested&#10;inner class $NAME$ {&#10;    &#10;    $END$&#10;    &#10;}" description="Nested class for jUnit 5" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
