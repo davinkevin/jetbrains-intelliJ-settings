@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>41</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application'">
@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>59</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DemoApplication'">
@@ -111,6 +111,14 @@
           <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
           <Description>Debug 'DemoApplication'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'JdomServiceTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
+          <Description>Debug 'JdomServiceTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'M3U8ServiceTest (1)'">
@@ -270,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>467</Count>
+          <Count>528</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -397,7 +405,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Application'</Description>
-          <Count>18</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Backend'">
@@ -470,6 +478,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ImageServiceTest.should_retrieve_information_about_image'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ItemBusinessTest.should_find_by_tags_and_full_text_with_pertinence_order_asc'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ItemBusinessTest.should_find_by_tags_and_full_text_with_pertinence_order_asc'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ItemDownloadManagerTest.should_relaunch_a_paused_download'">
@@ -685,7 +701,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>594</Count>
+          <Count>616</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -708,7 +724,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>Run</Description>
-          <Count>75</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application'">
@@ -716,7 +732,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Application'</Description>
-          <Count>24</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Backend'">
@@ -887,6 +903,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'should_find_by_tag...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
+          <Description>Run 'should_find_by_tag...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'should_handle_redi...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -964,7 +988,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>29</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Backend'">
@@ -1023,6 +1047,22 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ItemBusinessTest$ShouldSearch.by tags and full text with pertinence order asc'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ItemBusinessTest$ShouldSearch.by tags and full text with pertinence order asc'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ItemBusinessTest.should_find_by_tags_and_full_text_with_pertinence_order_asc'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ItemBusinessTest.should_find_by_tags_and_full_text_with_pertinence_order_asc'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ItunesFinderTest.should_find_url'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1069,6 +1109,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MonkeyPatchBananeraieTest.should_parse_position_from_input_stream'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MultiResquestTest.should launch request all in parallel with coroutines and async of Unirest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MultiResquestTest.should launch request all in parallel with coroutines and async of Unirest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MyCanalFinderTest.should_find_podcast'">
@@ -1268,7 +1316,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>290</Count>
+          <Count>312</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -1276,7 +1324,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -1284,7 +1332,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
     </option>
