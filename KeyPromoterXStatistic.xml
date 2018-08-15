@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>68</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DemoApplication'">
@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>541</Count>
+          <Count>544</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -413,7 +413,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Application'</Description>
-          <Count>30</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Backend'">
@@ -732,7 +732,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>Run</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application'">
@@ -740,7 +740,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Application'</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Backend'">
@@ -996,7 +996,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>40</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Backend'">
