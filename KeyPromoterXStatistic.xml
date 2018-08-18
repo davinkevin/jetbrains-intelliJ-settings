@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>570</Count>
+          <Count>573</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -632,6 +632,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SixPlayExtractorTest.should throw error if no elements are found from the json result'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'SixPlayExtractorTest.should throw error if no elements are found from the json result'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Solution'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -725,7 +733,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>700</Count>
+          <Count>709</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -1207,6 +1215,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SixPlayExtractorTest.should extract urls from playlist'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SixPlayExtractorTest.should extract urls from playlist'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SixPlayExtractorTest.should throw error if no elements are found from the json result'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SixPlayExtractorTest.should throw error if no elements are found from the json result'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SixPlayExtractorTest.should_extract_real_url_for_clip'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1356,7 +1380,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>347</Count>
+          <Count>367</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
