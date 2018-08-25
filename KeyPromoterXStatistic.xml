@@ -177,6 +177,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'should_get_items_f...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9' or '⌃⌥⌘D'</ShortCut>
+          <Description>Debug 'should_get_items_f...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'should_handle_redi...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -310,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>598</Count>
+          <Count>601</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -624,6 +632,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MyCanalUpdaterTest.should_get_items_from_podcast'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MyCanalUpdaterTest.should_get_items_from_podcast'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MyCanalUpdaterTest.should_sign_podcast'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -749,7 +765,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'java in backend'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'podcastserver in Backend'">
@@ -781,7 +797,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>783</Count>
+          <Count>797</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -1260,7 +1276,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MyCanalUpdaterTest.should_get_items_from_podcast'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MyCanalUpdaterTest.should_sign_podcast'">
@@ -1484,7 +1500,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>410</Count>
+          <Count>415</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
