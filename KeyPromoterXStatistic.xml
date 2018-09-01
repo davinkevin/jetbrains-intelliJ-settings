@@ -201,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'should_return_no_o...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9' or '⌃⌥⌘D'</ShortCut>
+          <Description>Debug 'should_return_no_o...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'should_run_downloa...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -310,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>611</Count>
+          <Count>615</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -485,6 +493,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'DemoApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ExtractorSelectorTest.should_return_no_op_if_empty_string'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ExtractorSelectorTest.should_return_no_op_if_empty_string'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -789,7 +805,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>798</Count>
+          <Count>844</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -1023,6 +1039,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'should_return_no_o...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
+          <Description>Run 'should_return_no_o...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'should_run_downloa...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1076,7 +1100,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>303</Count>
+          <Count>342</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ActionTest.should_have_an_empty_list'">
@@ -1125,6 +1149,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DemoApplication'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ExtractorSelectorTest.should_return_no_op_if_empty_string'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ExtractorSelectorTest.should_return_no_op_if_empty_string'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FfmpegDownloaderTest.should_download_file'">
@@ -1500,7 +1532,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>426</Count>
+          <Count>435</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
