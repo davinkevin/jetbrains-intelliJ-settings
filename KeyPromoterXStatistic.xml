@@ -326,7 +326,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>630</Count>
+          <Count>643</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -373,7 +373,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -996,7 +996,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
           <Description>Run 'Tests in 'podcastserver''</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'TransmissionRssApplication'">
@@ -1572,7 +1572,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>442</Count>
+          <Count>448</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
