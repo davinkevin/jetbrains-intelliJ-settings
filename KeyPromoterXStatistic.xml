@@ -326,7 +326,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>662</Count>
+          <Count>668</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -752,6 +752,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'YoutubeUpdaterTest.should_get_items_with_API_from_channel'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'YoutubeUpdaterTest.should_get_items_with_API_from_channel'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'dk in Backend'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -813,7 +821,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>845</Count>
+          <Count>863</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -1495,6 +1503,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'YoutubeUpdaterTest.should_get_items_with_API_from_channel'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'YoutubeUpdaterTest.should_get_items_with_API_from_channel'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'YoutubeUpdaterTest.should_handle_error_during_signature'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1580,7 +1596,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>453</Count>
+          <Count>469</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -1604,7 +1620,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
     </option>
