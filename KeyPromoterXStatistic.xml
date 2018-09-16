@@ -1508,7 +1508,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'YoutubeByApiUpdaterTest.should_get_items_with_API_from_channel'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'YoutubeDownloaderTest.should_run_download_with_multiple_files_for_audio_and_video'">
