@@ -999,6 +999,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tests in 'com.github.davinkevin.podcastserver.manager.worker.youtube''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
+          <Description>Run 'Tests in 'com.github.davinkevin.podcastserver.manager.worker.youtube''</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'java''">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
