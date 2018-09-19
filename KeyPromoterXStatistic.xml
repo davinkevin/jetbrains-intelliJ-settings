@@ -70,7 +70,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>52</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'App'">
@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
           <Description>Debug '🍃App'</Description>
-          <Count>2</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application'">
@@ -150,6 +150,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
           <Description>Debug 'SixPlayExtractorTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'SixPlayExtractorTest.should do what i want'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
+          <Description>Debug 'SixPlayExtractorTest.should do what i want'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -342,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>703</Count>
+          <Count>705</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -416,6 +424,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Parameter...">
+        <Item>
+          <IdeaActionID>IntroduceParameter</IdeaActionID>
+          <ShortCut>'⌥⌘P'</ShortCut>
+          <Description>Parameter...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
@@ -485,7 +501,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun '🍃App'</Description>
-          <Count>3</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Application'">
@@ -840,14 +856,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'App'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun '🍃App'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -861,7 +869,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>926</Count>
+          <Count>929</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -1212,7 +1220,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop '🍃App'</Description>
-          <Count>2</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -1684,7 +1692,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>499</Count>
+          <Count>502</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
