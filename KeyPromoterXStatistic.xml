@@ -70,7 +70,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -78,7 +78,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>29</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Data Source Properties">
@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'App'">
@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
           <Description>Debug '🍃App'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application'">
@@ -257,14 +257,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'App'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
-          <Description>Debug '🍃App'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -358,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>765</Count>
+          <Count>770</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -509,7 +501,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun '🍃App'</Description>
-          <Count>3</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Application'">
@@ -533,7 +525,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'DailymotionExtractorTest.should_load_chromecast_stream'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DatabaseServiceTest (1)'">
@@ -888,14 +880,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'App'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun '🍃App'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -909,7 +893,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>987</Count>
+          <Count>1001</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -924,7 +908,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -932,7 +916,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>Run</Description>
-          <Count>86</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'App'">
@@ -1284,7 +1268,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop '🍃App'</Description>
-          <Count>4</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -1309,6 +1293,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DailyMotionCloudDownloaderTest.should_get_real_url_for_an_item'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DailymotionExtractorTest.should_load_chromecast_stream'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DailymotionExtractorTest.should_load_chromecast_stream'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DemoApplication'">
@@ -1719,14 +1711,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'App'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop '🍃App'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Structure">
         <Item>
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
@@ -1772,7 +1756,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>567</Count>
+          <Count>581</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
