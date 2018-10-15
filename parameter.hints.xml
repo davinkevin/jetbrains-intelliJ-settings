@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Kotlin">
         <added pattern="org.mockito.Mockito.times(wantedNumberOfInvocations)" />
+        <added pattern="org.awaitility.core.ConditionFactory.atMost(timeout,unit)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_FUNCTION_HINT" value="true" />
