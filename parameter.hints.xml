@@ -4,6 +4,7 @@
       <blacklist language="Kotlin">
         <added pattern="org.mockito.Mockito.times(wantedNumberOfInvocations)" />
         <added pattern="org.awaitility.core.ConditionFactory.atMost(timeout,unit)" />
+        <added pattern="kotlin.text.substringBefore(delimiter,missingDelimiterValue)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_FUNCTION_HINT" value="true" />
