@@ -350,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>823</Count>
+          <Count>824</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -917,7 +917,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1009</Count>
+          <Count>1017</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -1260,7 +1260,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -1268,7 +1268,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -1276,7 +1276,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>357</Count>
+          <Count>364</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ActionTest.should_have_an_empty_list'">
@@ -1349,6 +1349,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ExtractorSelectorTest.should_return_no_op_if_empty_string'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FfmpegDownloaderTest$DownloaderTest$DownloadOperation.should ends on FAILED if one of download failed'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'FfmpegDownloaderTest$DownloaderTest$DownloadOperation.should ends on FAILED if one of download failed'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FfmpegDownloaderTest$DownloaderTest$DownloadOperation.should_download_file'">
@@ -1796,7 +1804,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>598</Count>
+          <Count>605</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
