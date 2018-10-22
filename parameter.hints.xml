@@ -5,6 +5,7 @@
         <added pattern="org.mockito.Mockito.times(wantedNumberOfInvocations)" />
         <added pattern="org.awaitility.core.ConditionFactory.atMost(timeout,unit)" />
         <added pattern="kotlin.text.substringBefore(delimiter,missingDelimiterValue)" />
+        <added pattern="org.mockito.invocation.InvocationOnMock.getArgument(index)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_FUNCTION_HINT" value="true" />
