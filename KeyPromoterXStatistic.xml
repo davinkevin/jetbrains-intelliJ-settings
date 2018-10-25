@@ -257,14 +257,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'App'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
-          <Description>Debug '🍃App'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -358,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>835</Count>
+          <Count>836</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -925,7 +917,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1020</Count>
+          <Count>1022</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -956,7 +948,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run '🍃App'</Description>
-          <Count>8</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application'">
@@ -1231,14 +1223,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'App'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⇧F10'</ShortCut>
-          <Description>Run '🍃App'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Set NULL">
         <Item>
           <IdeaActionID>Console.TableResult.SetNull</IdeaActionID>
@@ -1292,7 +1276,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>364</Count>
+          <Count>366</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ActionTest.should_have_an_empty_list'">
@@ -1700,7 +1684,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'YoutubeDownloaderTest.should_run_download_with_low_quality_video'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'YoutubeDownloaderTest.should_run_download_with_multiple_files_for_audio_and_video'">
@@ -1828,7 +1812,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>609</Count>
+          <Count>613</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
