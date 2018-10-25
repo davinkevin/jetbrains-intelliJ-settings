@@ -6,9 +6,9 @@
         <added pattern="org.awaitility.core.ConditionFactory.atMost(timeout,unit)" />
         <added pattern="kotlin.text.substringBefore(delimiter,missingDelimiterValue)" />
         <added pattern="org.mockito.invocation.InvocationOnMock.getArgument(index)" />
+        <added pattern="org.springframework.web.util.UriComponentsBuilder.pathSegment(pathSegments)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
-    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
   </component>
 </application>
