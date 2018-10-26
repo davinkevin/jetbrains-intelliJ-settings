@@ -5,6 +5,7 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="autovalue.shaded.com.google$.common.base.$Predicates.instanceOf" />
     <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xerces.internal.impl.xpath.XPath.Step" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.ws.spi.db.BindingContext" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.xsom.impl.scd.Step" />
     <EXCLUDED_PACKAGE NAME="java.sql.Blob" />
     <EXCLUDED_PACKAGE NAME="javafx.application.Application.launch" />
@@ -18,6 +19,7 @@
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations.Getter" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations.Setter" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.runtime.options.Option" />
+    <EXCLUDED_PACKAGE NAME="lombok.val" />
     <EXCLUDED_PACKAGE NAME="org.apache.catalina.Lifecycle" />
     <EXCLUDED_PACKAGE NAME="org.apache.http.HttpStatus" />
     <EXCLUDED_PACKAGE NAME="org.aspectj.lang.annotation.Before" />
