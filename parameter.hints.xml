@@ -8,6 +8,7 @@
         <added pattern="org.mockito.invocation.InvocationOnMock.getArgument(index)" />
         <added pattern="org.springframework.web.util.UriComponentsBuilder.pathSegment(pathSegments)" />
         <added pattern="org.assertj.core.api.AbstractObjectAssert.isEqualToComparingOnlyGivenFields(other,propertiesOrFieldsUsedInComparison)" />
+        <added pattern="lan.dk.podcastserver.manager.downloader.DownloadingItem(item,urls,filename,userAgent)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
