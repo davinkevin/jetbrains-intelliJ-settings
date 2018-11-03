@@ -592,6 +592,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'HTTPDownloaderTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'HTTPDownloaderTest'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'HTTPDownloaderTest.should_handle_downloadunterruptedError'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1431,6 +1439,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'HTTPDownloaderTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'HTTPDownloaderTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'HTTPDownloaderTest.should_handle_downloadunterruptedError'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1844,7 +1860,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>624</Count>
+          <Count>627</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
