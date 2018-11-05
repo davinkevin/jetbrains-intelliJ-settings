@@ -9,6 +9,7 @@
         <added pattern="org.springframework.web.util.UriComponentsBuilder.pathSegment(pathSegments)" />
         <added pattern="org.assertj.core.api.AbstractObjectAssert.isEqualToComparingOnlyGivenFields(other,propertiesOrFieldsUsedInComparison)" />
         <added pattern="lan.dk.podcastserver.manager.downloader.DownloadingItem(item,urls,filename,userAgent)" />
+        <added pattern="java.io.File(pathname)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
