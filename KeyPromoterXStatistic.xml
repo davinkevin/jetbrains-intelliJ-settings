@@ -358,7 +358,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>908</Count>
+          <Count>910</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -1516,7 +1516,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ItemDownloadManagerTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ItemDownloadManagerTest.should_stop_a_current_download'">
@@ -1900,7 +1900,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>643</Count>
+          <Count>644</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
