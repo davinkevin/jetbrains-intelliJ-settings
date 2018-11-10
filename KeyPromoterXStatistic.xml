@@ -1791,6 +1791,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'com.github.davinkevin.HelloKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'com.github.davinkevin.HelloKt'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'com.github.davinkevin.podcastserver in backend'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
