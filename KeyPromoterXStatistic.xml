@@ -358,7 +358,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>927</Count>
+          <Count>931</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -664,6 +664,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ItemDownloadManagerTest.should_remove_from_both_queue'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ItemDownloadManagerTest.should_remove_from_both_queue'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ItemRepositoryTest.should_find_all_to_download'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -965,7 +973,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1038</Count>
+          <Count>1072</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -1308,7 +1316,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>29</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -1316,7 +1324,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -1324,7 +1332,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>411</Count>
+          <Count>448</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ActionTest.should_have_an_empty_list'">
@@ -1525,6 +1533,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ItemDownloadManagerTest.should_pause_a_current_download'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ItemDownloadManagerTest.should_remove_from_both_queue'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ItemDownloadManagerTest.should_remove_from_both_queue'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ItemDownloadManagerTest.should_restart_a_current_download'">
@@ -1924,7 +1940,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>650</Count>
+          <Count>653</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
