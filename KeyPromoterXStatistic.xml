@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateCoverageToolWindow</IdeaActionID>
           <ShortCut>'⇧⌘1'</ShortCut>
           <Description>Coverage</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Data Source Properties">
@@ -1940,7 +1940,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>653</Count>
+          <Count>654</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
