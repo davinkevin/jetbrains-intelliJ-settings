@@ -366,7 +366,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>949</Count>
+          <Count>952</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -912,6 +912,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ZigateReceiverApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ZigateReceiverApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'com.github.davinkevin.podcastserver in backend'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1213,6 +1221,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'TransmissionRssApplication'</Description>
           <Count>106</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ZigateReceiverApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'ZigateReceiverApplication'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'should_call_m3u8_d...()'">
@@ -1837,6 +1853,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'YoutubeUpdaterTest.should_handle_error_during_signature'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ZigateReceiverApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ZigateReceiverApplication'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.github.davinkevin.HelloKt'">
