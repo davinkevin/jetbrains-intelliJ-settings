@@ -38,7 +38,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'⌘F4' or '⌘⎋'</ShortCut>
           <Description>Close</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close thumbnails">
@@ -78,7 +78,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>31</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Coverage">
@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
           <Description>Debug '🍃App'</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application'">
@@ -358,7 +358,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>931</Count>
+          <Count>952</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -461,7 +461,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -904,6 +904,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ZigateReceiverApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ZigateReceiverApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'com.github.davinkevin.podcastserver in backend'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -973,7 +981,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1072</Count>
+          <Count>1135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -996,7 +1004,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>Run</Description>
-          <Count>90</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'App'">
@@ -1052,7 +1060,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Full test'</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'HelloTest'">
@@ -1061,6 +1069,14 @@
           <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
           <Description>Run 'HelloTest'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ItemDownloadManagerTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
+          <Description>Run 'ItemDownloadManagerTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ItemTest'">
@@ -1199,6 +1215,14 @@
           <Count>106</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ZigateReceiverApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'ZigateReceiverApplication'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'should_call_m3u8_d...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1332,7 +1356,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>448</Count>
+          <Count>476</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ActionTest.should_have_an_empty_list'">
@@ -1823,6 +1847,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ZigateReceiverApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ZigateReceiverApplication'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'com.github.davinkevin.HelloKt'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1940,7 +1972,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>654</Count>
+          <Count>671</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
