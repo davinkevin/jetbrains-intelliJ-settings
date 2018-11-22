@@ -38,7 +38,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'⌘F4' or '⌘⎋'</ShortCut>
           <Description>Close</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close thumbnails">
@@ -78,7 +78,15 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>31</Count>
+          <Count>34</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Coverage">
+        <Item>
+          <IdeaActionID>ActivateCoverageToolWindow</IdeaActionID>
+          <ShortCut>'⇧⌘1'</ShortCut>
+          <Description>Coverage</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Data Source Properties">
@@ -102,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
           <Description>Debug '🍃App'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application'">
@@ -350,7 +358,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>770</Count>
+          <Count>952</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -397,7 +405,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>28</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -453,7 +461,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>11</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -461,7 +469,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'ItemRepository.java'">
@@ -560,6 +568,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'FfmpegDownloaderTest$DownloaderTest$DownloadOperation.should_download_file'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'FfmpegDownloaderTest$DownloaderTest$DownloadOperation.should_download_file'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'FfmpegDownloaderTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -584,12 +600,36 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'HTTPDownloaderTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'HTTPDownloaderTest'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'HTTPDownloaderTest.should_handle_downloadunterruptedError'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'HTTPDownloaderTest.should_handle_downloadunterruptedError'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'HTTPWatcherTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'HTTPWatcherTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'HTTPWatcherTest.should_do_extraction'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'HTTPWatcherTest.should_do_extraction'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'HelloTest.should return 43'">
@@ -622,6 +662,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ItemDownloadManagerTest.should_relaunch_a_paused_download'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ItemDownloadManagerTest.should_remove_from_both_queue'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ItemDownloadManagerTest.should_remove_from_both_queue'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ItemRepositoryTest.should_find_all_to_download'">
@@ -741,7 +789,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SixPlayDownloaderTest'">
@@ -816,6 +864,30 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'YoutubeDownloaderTest$DownloadOperation.a low quality video with retry during download'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'YoutubeDownloaderTest$DownloadOperation.a low quality video with retry during download'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'YoutubeDownloaderTest$DownloadOperation.a low quality video'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'YoutubeDownloaderTest$DownloadOperation.a low quality video'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'YoutubeDownloaderTest$Watcher.should failed if retry took more than defined time'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'YoutubeDownloaderTest$Watcher.should failed if retry took more than defined time'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'YoutubeDownloaderTest.should_run_download_with_multiple_files_for_audio_and_video'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -830,6 +902,22 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'YoutubeUpdaterTest.should_get_items_with_API_from_channel'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ZigateReceiverApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ZigateReceiverApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'com.github.davinkevin.podcastserver in backend'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'com.github.davinkevin.podcastserver in backend'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'dk in Backend'">
@@ -893,7 +981,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1001</Count>
+          <Count>1135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -908,7 +996,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>22</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -916,7 +1004,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>Run</Description>
-          <Count>88</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'App'">
@@ -924,7 +1012,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run '🍃App'</Description>
-          <Count>4</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application'">
@@ -972,7 +1060,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Full test'</Description>
-          <Count>1</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'HelloTest'">
@@ -981,6 +1069,14 @@
           <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
           <Description>Run 'HelloTest'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ItemDownloadManagerTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
+          <Description>Run 'ItemDownloadManagerTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ItemTest'">
@@ -1119,6 +1215,14 @@
           <Count>106</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ZigateReceiverApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'ZigateReceiverApplication'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'should_call_m3u8_d...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1236,7 +1340,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>26</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -1244,7 +1348,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>5</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -1252,7 +1356,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>353</Count>
+          <Count>476</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ActionTest.should_have_an_empty_list'">
@@ -1327,6 +1431,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'FfmpegDownloaderTest$DownloaderTest$DownloadOperation.should ends on FAILED if one of download failed'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'FfmpegDownloaderTest$DownloaderTest$DownloadOperation.should ends on FAILED if one of download failed'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FfmpegDownloaderTest$DownloaderTest$DownloadOperation.should_download_file'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'FfmpegDownloaderTest$DownloaderTest$DownloadOperation.should_download_file'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'FfmpegDownloaderTest.should_download_file'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1367,12 +1487,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'HTTPDownloaderTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'HTTPDownloaderTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'HTTPDownloaderTest.should_handle_downloadunterruptedError'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'HTTPDownloaderTest.should_handle_downloadunterruptedError'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'HTTPWatcherTest.should_do_extraction'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'HTTPWatcherTest.should_do_extraction'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'HelloTest.should return 24'">
@@ -1404,6 +1540,46 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ItemBusinessTest.should_find_by_tags_and_full_text_with_pertinence_order_asc'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ItemDownloadManagerTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ItemDownloadManagerTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ItemDownloadManagerTest.should_pause_a_current_download'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ItemDownloadManagerTest.should_pause_a_current_download'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ItemDownloadManagerTest.should_remove_from_both_queue'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ItemDownloadManagerTest.should_remove_from_both_queue'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ItemDownloadManagerTest.should_restart_a_current_download'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ItemDownloadManagerTest.should_restart_a_current_download'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ItemDownloadManagerTest.should_stop_a_current_download'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ItemDownloadManagerTest.should_stop_a_current_download'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1631,6 +1807,22 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'YoutubeDownloaderTest$DownloadOperation.a low quality video'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'YoutubeDownloaderTest$DownloadOperation.a low quality video'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'YoutubeDownloaderTest.should_run_download_with_low_quality_video'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'YoutubeDownloaderTest.should_run_download_with_low_quality_video'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'YoutubeDownloaderTest.should_run_download_with_multiple_files_for_audio_and_video'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1652,6 +1844,30 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'YoutubeUpdaterTest.should_handle_error_during_signature'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ZigateReceiverApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ZigateReceiverApplication'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'com.github.davinkevin.HelloKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'com.github.davinkevin.HelloKt'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'com.github.davinkevin.podcastserver in backend'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'com.github.davinkevin.podcastserver in backend'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1748,7 +1964,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>33</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1756,7 +1972,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>584</Count>
+          <Count>671</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -1780,7 +1996,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
     </option>
