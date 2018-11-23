@@ -584,6 +584,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'FooRouterTests.fooError'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'FooRouterTests.fooError'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'FranceTvUpdaterTest.should be able to sign podcast with no items'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
