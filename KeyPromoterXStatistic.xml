@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
           <Description>Debug '🍃App'</Description>
-          <Count>4</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application'">
@@ -281,14 +281,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'App'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
-          <Description>Debug '🍃App'</Description>
-          <Count>19</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -382,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>978</Count>
+          <Count>979</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -1000,14 +992,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'App'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun '🍃App'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -1412,7 +1396,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop '🍃App'</Description>
-          <Count>2</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -1973,14 +1957,6 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'youtube in backend'</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'App'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop '🍃App'</Description>
-          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
