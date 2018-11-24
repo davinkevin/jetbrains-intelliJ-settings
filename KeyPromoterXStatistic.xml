@@ -366,7 +366,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Functional Parameter...">
@@ -382,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>971</Count>
+          <Count>974</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -1396,7 +1396,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>476</Count>
+          <Count>479</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ActionTest.should_have_an_empty_list'">
@@ -1429,6 +1429,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Backend'</Description>
           <Count>75</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CoverTest.should_create_a_cover_with_url'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CoverTest.should_create_a_cover_with_url'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DailyMotionCloudDownloaderTest.should_get_real_url_for_an_item'">
@@ -2020,7 +2028,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>673</Count>
+          <Count>674</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
