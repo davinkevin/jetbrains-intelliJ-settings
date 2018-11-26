@@ -12,6 +12,7 @@
         <added pattern="java.io.File(pathname)" />
         <added pattern="com.nhaarman.mockitokotlin2.times(numInvocations)" />
         <added pattern="com.airbusds.intelligence.subscriptionmanagement.subscription.SubscriptionV2(uid,name,activated,startDate,endDate,configuration,contract,service,createdAt,createdBy,updatedAt,updatedBy)" />
+        <added pattern="com.airbusds.intelligence.subscriptionmanagement.group.GroupV2(uid,label,createdAt,createdBy,updatedAt,updatedBy,contract)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
