@@ -294,7 +294,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9' or '⌃⇧⌘R'</ShortCut>
           <Description>Debug '🍃App'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
