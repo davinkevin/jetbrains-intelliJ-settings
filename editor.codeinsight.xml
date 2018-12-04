@@ -34,6 +34,7 @@
     <EXCLUDED_PACKAGE NAME="org.hibernate.validator.internal.util.logging.LoggerFactory" />
     <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertThat" />
     <EXCLUDED_PACKAGE NAME="org.junit.Test" />
+    <EXCLUDED_PACKAGE NAME="org.junit.jupiter.params.shadow.com.univocity.parsers.annotations.Nested" />
     <EXCLUDED_PACKAGE NAME="org.omg.CORBA.ServerRequest" />
     <EXCLUDED_PACKAGE NAME="org.omg.CORBA.portable.InputStream" />
     <EXCLUDED_PACKAGE NAME="org.omg.CORBA_2_3.portable.InputStream" />
