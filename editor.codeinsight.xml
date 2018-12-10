@@ -9,11 +9,13 @@
     <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xerces.internal.util.URI" />
     <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xml.internal.resolver.Catalog.URI" />
     <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xml.internal.utils.URI" />
+    <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util.List" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.ws.developer.SerializationFeature" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.ws.spi.db.BindingContext" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.xsom.impl.scd.Step" />
     <EXCLUDED_PACKAGE NAME="java.sql.Blob" />
     <EXCLUDED_PACKAGE NAME="javafx.application.Application.launch" />
+    <EXCLUDED_PACKAGE NAME="javafx.beans.binding.Binding" />
     <EXCLUDED_PACKAGE NAME="javafx.beans.binding.Bindings.when" />
     <EXCLUDED_PACKAGE NAME="javafx.scene.input.DataFormat.URL" />
     <EXCLUDED_PACKAGE NAME="javafx.scene.shape.Path" />
