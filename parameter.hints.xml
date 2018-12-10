@@ -14,6 +14,7 @@
         <added pattern="com.airbusds.intelligence.subscriptionmanagement.subscription.SubscriptionV2(uid,name,activated,startDate,endDate,configuration,contract,service,createdAt,createdBy,updatedAt,updatedBy)" />
         <added pattern="com.airbusds.intelligence.subscriptionmanagement.group.GroupV2(uid,label,createdAt,createdBy,updatedAt,updatedBy,contract)" />
         <added pattern="am.ik.yavi.constraint.ViolationMessage.of(messageKey,defaultMessageFormat)" />
+        <added pattern="com.github.davinkevin.jooqwithltree.ltree(path)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
