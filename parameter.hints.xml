@@ -16,6 +16,7 @@
         <added pattern="am.ik.yavi.constraint.ViolationMessage.of(messageKey,defaultMessageFormat)" />
         <added pattern="com.github.davinkevin.jooqwithltree.ltree(path)" />
         <added pattern="com.airbusds.intelligence.subscriptionmanagement.subscription.SubscriptionV2(uid,name,activated,startDate,endDate,configuration,contract,service,hierarchy,createdAt,createdBy,updatedAt,updatedBy)" />
+        <added pattern="kotlin.text.replace(oldValue,newValue,ignoreCase)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
