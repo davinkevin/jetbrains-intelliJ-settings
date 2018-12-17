@@ -19,6 +19,5 @@
         <added pattern="kotlin.text.replace(oldValue,newValue,ignoreCase)" />
       </blacklist>
     </blacklists>
-    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
   </component>
 </application>
