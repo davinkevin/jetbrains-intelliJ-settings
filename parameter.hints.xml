@@ -17,6 +17,7 @@
         <added pattern="com.github.davinkevin.jooqwithltree.ltree(path)" />
         <added pattern="com.airbusds.intelligence.subscriptionmanagement.subscription.SubscriptionV2(uid,name,activated,startDate,endDate,configuration,contract,service,hierarchy,createdAt,createdBy,updatedAt,updatedBy)" />
         <added pattern="kotlin.text.replace(oldValue,newValue,ignoreCase)" />
+        <added pattern="reactor.test.StepVerifier.FirstStep.expectNext(t1,t2,t3,t4)" />
       </blacklist>
     </blacklists>
   </component>
