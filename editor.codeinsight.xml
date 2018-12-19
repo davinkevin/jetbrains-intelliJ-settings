@@ -41,6 +41,7 @@
     <EXCLUDED_PACKAGE NAME="org.omg.CORBA.portable.InputStream" />
     <EXCLUDED_PACKAGE NAME="org.omg.CORBA_2_3.portable.InputStream" />
     <EXCLUDED_PACKAGE NAME="org.springframework.test.util.MatcherAssertionErrors.assertThat" />
+    <EXCLUDED_PACKAGE NAME="org.threeten" />
     <EXCLUDED_PACKAGE NAME="sun.misc.Version.println" />
     <EXCLUDED_PACKAGE NAME="sun.net.ProgressListener" />
     <EXCLUDED_PACKAGE NAME="sun.net.www.URLConnection" />
