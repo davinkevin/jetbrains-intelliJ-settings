@@ -19,6 +19,9 @@
         <added pattern="kotlin.text.replace(oldValue,newValue,ignoreCase)" />
         <added pattern="reactor.test.StepVerifier.FirstStep.expectNext(t1,t2,t3,t4)" />
       </blacklist>
+      <blacklist language="Java">
+        <added pattern="org.jooq.impl.AbstractRoutine.createParameter(name,type,isDefaulted,isUnnamed,binding)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
