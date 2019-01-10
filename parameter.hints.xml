@@ -23,5 +23,6 @@
         <added pattern="reactor.test.StepVerifier.FirstStep.expectNext(t1,t2,t3,t4)" />
       </blacklist>
     </blacklists>
+    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
   </component>
 </application>
