@@ -21,6 +21,7 @@
         <added pattern="com.airbusds.intelligence.subscriptionmanagement.subscription.SubscriptionV2(uid,name,activated,startDate,endDate,configuration,contract,service,hierarchy,createdAt,createdBy,updatedAt,updatedBy)" />
         <added pattern="kotlin.text.replace(oldValue,newValue,ignoreCase)" />
         <added pattern="reactor.test.StepVerifier.FirstStep.expectNext(t1,t2,t3,t4)" />
+        <added pattern="java.time.ZonedDateTime.of(year,month,dayOfMonth,hour,minute,second,nanoOfSecond,zone)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
