@@ -25,6 +25,5 @@
         <added pattern="org.assertj.core.api.ObjectAssert.isEqualToComparingOnlyGivenFields(other,propertiesOrFieldsUsedInComparison)" />
       </blacklist>
     </blacklists>
-    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
   </component>
 </application>
