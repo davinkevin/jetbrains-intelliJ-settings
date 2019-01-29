@@ -24,6 +24,8 @@
         <added pattern="java.time.ZonedDateTime.of(year,month,dayOfMonth,hour,minute,second,nanoOfSecond,zone)" />
         <added pattern="org.assertj.core.api.ObjectAssert.isEqualToComparingOnlyGivenFields(other,propertiesOrFieldsUsedInComparison)" />
         <added pattern="kotlin.text.substringAfter(delimiter,missingDelimiterValue)" />
+        <added pattern="java.time.Instant.minusSeconds(secondsToSubtract)" />
+        <added pattern="java.time.Instant.plusSeconds(secondsToAdd)" />
       </blacklist>
     </blacklists>
   </component>
