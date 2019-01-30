@@ -26,6 +26,7 @@
         <added pattern="kotlin.text.substringAfter(delimiter,missingDelimiterValue)" />
         <added pattern="java.time.Instant.minusSeconds(secondsToSubtract)" />
         <added pattern="java.time.Instant.plusSeconds(secondsToAdd)" />
+        <added pattern="com.airbus.intelligence.subscriptionmanagement.plugin.datastore.forwarder.DataStoreReport(subscriptionUidsByUserUuids,subscriptions,users)" />
       </blacklist>
     </blacklists>
   </component>
