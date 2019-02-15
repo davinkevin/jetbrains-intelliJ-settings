@@ -1,19 +1,5 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Kotlin">
-        <added pattern="org.mockito.Mockito.times(wantedNumberOfInvocations)" />
-        <added pattern="org.awaitility.core.ConditionFactory.atMost(timeout,unit)" />
-        <added pattern="kotlin.text.substringBefore(delimiter,missingDelimiterValue)" />
-        <added pattern="org.mockito.invocation.InvocationOnMock.getArgument(index)" />
-        <added pattern="org.springframework.web.util.UriComponentsBuilder.pathSegment(pathSegments)" />
-        <added pattern="org.assertj.core.api.AbstractObjectAssert.isEqualToComparingOnlyGivenFields(other,propertiesOrFieldsUsedInComparison)" />
-        <added pattern="lan.dk.podcastserver.manager.downloader.DownloadingItem(item,urls,filename,userAgent)" />
-        <added pattern="java.io.File(pathname)" />
-        <added pattern="com.nhaarman.mockitokotlin2.times(numInvocations)" />
-      </blacklist>
-    </blacklists>
-    <option id="SHOW_FUNCTION_HINT" value="true" />
-    <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
+    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
   </component>
 </application>

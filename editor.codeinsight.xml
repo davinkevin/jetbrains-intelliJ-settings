@@ -4,7 +4,11 @@
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="autovalue.shaded.com.google$.common.base.$Predicates.instanceOf" />
+    <EXCLUDED_PACKAGE NAME="com.sun.java.accessibility.util.EventID.ITEM" />
     <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xerces.internal.impl.xpath.XPath.Step" />
+    <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xerces.internal.util.URI" />
+    <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xml.internal.utils.URI" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.ws.developer.SerializationFeature" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.ws.spi.db.BindingContext" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.xsom.impl.scd.Step" />
     <EXCLUDED_PACKAGE NAME="java.sql.Blob" />
@@ -29,6 +33,7 @@
     <EXCLUDED_PACKAGE NAME="org.hibernate.validator.internal.util.logging.LoggerFactory" />
     <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertThat" />
     <EXCLUDED_PACKAGE NAME="org.junit.Test" />
+    <EXCLUDED_PACKAGE NAME="org.omg.CORBA.ServerRequest" />
     <EXCLUDED_PACKAGE NAME="org.omg.CORBA.portable.InputStream" />
     <EXCLUDED_PACKAGE NAME="org.omg.CORBA_2_3.portable.InputStream" />
     <EXCLUDED_PACKAGE NAME="org.springframework.test.util.MatcherAssertionErrors.assertThat" />
