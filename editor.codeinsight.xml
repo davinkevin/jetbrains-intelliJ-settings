@@ -4,6 +4,7 @@
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="autovalue.shaded.com.google$.common.base.$Predicates.instanceOf" />
+    <EXCLUDED_PACKAGE NAME="com.apple.eawt.ApplicationListener" />
     <EXCLUDED_PACKAGE NAME="com.google.gson.internal.bind.TypeAdapters.URI" />
     <EXCLUDED_PACKAGE NAME="com.sun.net.ssl.HostnameVerifier" />
     <EXCLUDED_PACKAGE NAME="com.sun.net.ssl.HttpsURLConnection" />
