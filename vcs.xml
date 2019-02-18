@@ -150,6 +150,10 @@
           <option name="url" value="https://github.com/davinkevin/transmission-rss.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:davinkevin/istio-best-friends-k8s-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspace/github.com/davinkevin" />
