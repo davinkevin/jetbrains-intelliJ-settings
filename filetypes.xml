@@ -6,7 +6,9 @@
       <mapping pattern="mockito-extensions" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
+      <mapping ext="timer" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="jwt" type="PLAIN_TEXT" />
       <mapping ext="apm" type="PLAIN_TEXT" />
