@@ -398,7 +398,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1183</Count>
+          <Count>1186</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -1421,6 +1421,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'youtube in backend (1)'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'App'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run '🍃App'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set NULL">
