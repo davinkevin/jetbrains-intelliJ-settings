@@ -5,6 +5,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="mockito-extensions" type="PLAIN_TEXT" />
       <mapping pattern="passwd" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfilea" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern="group" type="PLAIN_TEXT" />
