@@ -398,7 +398,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1204</Count>
+          <Count>1205</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -1423,14 +1423,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'App'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⇧F10'</ShortCut>
-          <Description>Run '🍃App'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Set NULL">
         <Item>
           <IdeaActionID>Console.TableResult.SetNull</IdeaActionID>
@@ -1500,7 +1492,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop '🍃App'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -2092,14 +2084,6 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'youtube in backend'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'App'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop '🍃App'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
