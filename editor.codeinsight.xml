@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="org.junit.Test" />
     <EXCLUDED_PACKAGE NAME="org.junit.jupiter.params.shadow.com.univocity.parsers.annotations.Nested" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
