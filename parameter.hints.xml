@@ -5,6 +5,8 @@
         <added pattern="com.github.davinkevin.podcastserver.business.stats.NumberOfItemByDateWrapper(date,numberOfItems)" />
         <added pattern="java.time.LocalDate.minusWeeks(weeksToSubtract)" />
         <added pattern="java.time.LocalDate.minusDays(daysToSubtract)" />
+        <added pattern="java.time.LocalDate.minusMonths(monthsToSubtract)" />
+        <added pattern="com.github.davinkevin.podcastserver.podcast.PodcastRepositoryV2.findStatByTypeAndPubDate(numberOfMonth)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
