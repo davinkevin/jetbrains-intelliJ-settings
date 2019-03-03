@@ -1,5 +1,12 @@
 <application>
   <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="com.github.davinkevin.podcastserver.business.stats.NumberOfItemByDateWrapper(date,numberOfItems)" />
+        <added pattern="java.time.LocalDate.minusWeeks(weeksToSubtract)" />
+        <added pattern="java.time.LocalDate.minusDays(daysToSubtract)" />
+      </blacklist>
+    </blacklists>
     <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
   </component>
 </application>
