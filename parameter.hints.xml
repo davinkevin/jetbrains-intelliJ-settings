@@ -9,6 +9,5 @@
         <added pattern="com.github.davinkevin.podcastserver.podcast.PodcastRepositoryV2.findStatByTypeAndPubDate(numberOfMonth)" />
       </blacklist>
     </blacklists>
-    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
   </component>
 </application>
