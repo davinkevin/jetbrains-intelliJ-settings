@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -1236,7 +1236,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'SearchApplication'</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SixPlayDownloaderTest.should_t...'">
@@ -1828,7 +1828,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SearchApplication'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SixPlayDownloaderTest.should_transform_url_if_usp_hls_h264'">
