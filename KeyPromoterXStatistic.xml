@@ -38,7 +38,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'⌘F4' or '⌘⎋'</ShortCut>
           <Description>Close</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close thumbnails">
