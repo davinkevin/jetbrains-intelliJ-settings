@@ -414,7 +414,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1240</Count>
+          <Count>1243</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -976,6 +976,14 @@
           <Count>41</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Unit'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Unit'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'UrlServiceTest.should_handle_redirection_relative_to_the_path'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1389,6 +1397,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'UiApplication'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unit'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
+          <Description>Run 'Unit'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ZigateReceiverApplication'">
