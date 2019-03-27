@@ -1919,6 +1919,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Scenario: A subscription deactivated should be not available inside datastore'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Scenario: A subscription deactivated should be not available inside datastore'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SearchApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
