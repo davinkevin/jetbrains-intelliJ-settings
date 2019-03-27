@@ -1527,6 +1527,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show All Affected Files">
+        <Item>
+          <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
+          <ShortCut>'⌥⇧A'</ShortCut>
+          <Description>Show All Affected Files</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Dependencies Popup...">
         <Item>
           <IdeaActionID>ShowUmlDiagramPopup</IdeaActionID>
