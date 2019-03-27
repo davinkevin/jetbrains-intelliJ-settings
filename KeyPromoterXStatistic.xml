@@ -1303,6 +1303,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Scenario: Authenticate as SubMan Admin on int'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'Scenario: Authenticate as SubMan Admin on int'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SearchApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
