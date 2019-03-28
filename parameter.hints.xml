@@ -8,6 +8,8 @@
         <added pattern="java.time.LocalDate.minusMonths(monthsToSubtract)" />
         <added pattern="com.github.davinkevin.podcastserver.podcast.PodcastRepositoryV2.findStatByTypeAndPubDate(numberOfMonth)" />
         <added pattern="am.ik.yavi.constraint.ViolationMessage.of(messageKey,defaultMessageFormat)" />
+        <added pattern="org.springframework.web.reactive.function.server.RouterFunctionDsl.POST(pattern,f)" />
+        <added pattern="org.springframework.web.reactive.function.server.RouterFunctionDsl.GET(pattern,f)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
