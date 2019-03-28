@@ -54,7 +54,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'⌘F4' or '⌘⎋'</ShortCut>
           <Description>Close</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close thumbnails">
@@ -414,7 +414,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1257</Count>
+          <Count>1259</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -1156,7 +1156,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘+4'</ShortCut>
           <Description>Run</Description>
-          <Count>98</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'App '">
