@@ -10,6 +10,7 @@
         <added pattern="am.ik.yavi.constraint.ViolationMessage.of(messageKey,defaultMessageFormat)" />
         <added pattern="org.springframework.web.reactive.function.server.RouterFunctionDsl.POST(pattern,f)" />
         <added pattern="org.springframework.web.reactive.function.server.RouterFunctionDsl.GET(pattern,f)" />
+        <added pattern="org.springframework.web.util.UriComponentsBuilder.pathSegment(pathSegments)" />
       </blacklist>
     </blacklists>
   </component>
