@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="mockito-extensions" type="PLAIN_TEXT" />
       <mapping pattern="passwd" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfilea" type="PLAIN_TEXT" />
