@@ -6,7 +6,7 @@
           <IdeaActionID>Maven.Uml.Exclude</IdeaActionID>
           <ShortCut>'⇧⌦'</ShortCut>
           <Description>Exclude</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -46,7 +46,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'⌥⇧⌘U'</ShortCut>
           <Description>Show Dependencies...</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'App'">
