@@ -13,6 +13,7 @@
         <added pattern="org.springframework.web.util.UriComponentsBuilder.pathSegment(pathSegments)" />
         <added pattern="java.time.OffsetDateTime.of(year,month,dayOfMonth,hour,minute,second,nanoOfSecond,offset)" />
         <added pattern="java.util.UUID.fromString(name)" />
+        <added pattern="com.nhaarman.mockitokotlin2.times(numInvocations)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
