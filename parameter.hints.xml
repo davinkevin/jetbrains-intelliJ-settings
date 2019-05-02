@@ -14,6 +14,9 @@
         <added pattern="java.time.OffsetDateTime.of(year,month,dayOfMonth,hour,minute,second,nanoOfSecond,offset)" />
         <added pattern="java.util.UUID.fromString(name)" />
         <added pattern="org.springframework.web.reactive.function.server.RouterFunctionDsl.PUT(pattern,f)" />
+        <added pattern="com.github.benmanes.caffeine.cache.Caffeine.maximumSize(maximumSize)" />
+        <added pattern="com.github.benmanes.caffeine.cache.Caffeine.expireAfterWrite(duration,unit)" />
+        <added pattern="com.github.benmanes.caffeine.cache.Caffeine.refreshAfterWrite(duration,unit)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
