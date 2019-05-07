@@ -17,6 +17,7 @@
         <added pattern="com.github.benmanes.caffeine.cache.Caffeine.maximumSize(maximumSize)" />
         <added pattern="com.github.benmanes.caffeine.cache.Caffeine.expireAfterWrite(duration,unit)" />
         <added pattern="com.github.benmanes.caffeine.cache.Caffeine.refreshAfterWrite(duration,unit)" />
+        <added pattern="com.github.tomakehurst.wiremock.client.WireMock.okJson(body)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
