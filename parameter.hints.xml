@@ -18,6 +18,7 @@
         <added pattern="com.github.benmanes.caffeine.cache.Caffeine.expireAfterWrite(duration,unit)" />
         <added pattern="com.github.benmanes.caffeine.cache.Caffeine.refreshAfterWrite(duration,unit)" />
         <added pattern="com.github.tomakehurst.wiremock.client.WireMock.okJson(body)" />
+        <added pattern="org.assertj.core.api.StringAssert.isEqualTo(expectedStringTemplate,args)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
