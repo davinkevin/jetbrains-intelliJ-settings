@@ -161,6 +161,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Build site'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Build site'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Full test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -254,7 +262,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'App'">
@@ -278,7 +286,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Build site'</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ItemRepositoryV2Test'">
@@ -335,6 +343,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'com.gitlab.davinkevin.micronaut.Application'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'index.html'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
+          <Description>Run 'index.html'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Dependencies Popup...">
