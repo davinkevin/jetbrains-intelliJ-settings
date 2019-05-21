@@ -134,7 +134,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>4</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -142,7 +142,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>2</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'App'">
@@ -230,14 +230,6 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'SubscriptionManagementServiceTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'UiApplication'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'UiApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -337,14 +329,6 @@
           <Count>6</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'SearchApplication'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⇧F10'</ShortCut>
-          <Description>Run 'SearchApplication'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'SubscriptionManage...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -359,14 +343,6 @@
           <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
           <Description>Run 'SubscriptionManagementServiceTest$FetchUsers$ShouldWork$Groups'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'UiApplication'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⇧F10'</ShortCut>
-          <Description>Run 'UiApplication'</Description>
-          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unit'">
@@ -471,14 +447,6 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Search'</Description>
           <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'SearchApplication'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'SearchApplication'</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TokenProviderTest'">
