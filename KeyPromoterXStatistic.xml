@@ -329,6 +329,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ChargingapiApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'ChargingapiApplication'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ItemRepositoryV2Test'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -471,6 +479,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ChargingapiApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ChargingapiApplication'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ItemRepositoryV2Test$ShouldSearchWithPagination$WithTagsAndNoStatutes.for last page with 12 elements, pubdate desc'">
