@@ -7,15 +7,20 @@
       <mapping pattern="passwd" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfilea" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern="group" type="PLAIN_TEXT" />
+      <mapping ext="password" type="PLAIN_TEXT" />
       <mapping ext="fish" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="jwt" type="PLAIN_TEXT" />
       <mapping ext="apm" type="PLAIN_TEXT" />
+      <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="m3u8" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
