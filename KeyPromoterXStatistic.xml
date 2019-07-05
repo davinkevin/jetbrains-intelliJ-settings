@@ -158,7 +158,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>336</Count>
+          <Count>337</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -342,7 +342,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Unit'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'francetv in backend'">
@@ -414,6 +414,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Application'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BatchStateTest (1)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
+          <Description>Run 'BatchStateTest (1)'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
