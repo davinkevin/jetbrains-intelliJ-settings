@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateCoverageToolWindow</IdeaActionID>
           <ShortCut>'⇧⌘1'</ShortCut>
           <Description>Coverage</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'App'">
