@@ -206,7 +206,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>430</Count>
+          <Count>433</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -887,6 +887,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TokenProviderTest.should renew token after midlife'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TokenProviderWithApiKeyTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'TokenProviderWithApiKeyTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unit'">
