@@ -1,26 +1,37 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="mockito-extensions" type="PLAIN_TEXT" />
-      <mapping pattern="passwd" type="PLAIN_TEXT" />
+      <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfilea" type="PLAIN_TEXT" />
+      <mapping pattern="passwd" type="PLAIN_TEXT" />
+      <mapping pattern="group" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
-      <mapping pattern=".envrc" type="PLAIN_TEXT" />
-      <mapping pattern="group" type="PLAIN_TEXT" />
+      <mapping pattern="mockito-extensions" type="PLAIN_TEXT" />
       <mapping ext="password" type="PLAIN_TEXT" />
-      <mapping ext="fish" type="PLAIN_TEXT" />
-      <mapping ext="lst" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
-      <mapping ext="jwt" type="PLAIN_TEXT" />
       <mapping ext="apm" type="PLAIN_TEXT" />
-      <mapping ext="lua" type="PLAIN_TEXT" />
-      <mapping ext="m3u8" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="m3u8" type="PLAIN_TEXT" />
+      <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="fish" type="PLAIN_TEXT" />
+      <mapping ext="jwt" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="lua" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
