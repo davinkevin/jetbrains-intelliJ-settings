@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -895,6 +895,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TF1ReplayExtractorTest$ShouldGet$WithFallBackUrl.fall back to default url'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TokenProviderBySignatureTest.should sign message with PKCS8'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'TokenProviderBySignatureTest.should sign message with PKCS8'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TokenProviderTest'">
