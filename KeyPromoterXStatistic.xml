@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -545,6 +545,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Focuss @ INT with signature'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'Focuss @ INT with signature'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Focuss @ INT'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -766,7 +774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Focuss @ INT with signature'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Focuss @ INT'">
