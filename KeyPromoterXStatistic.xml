@@ -294,7 +294,7 @@
           <IdeaActionID>OptimizeImports</IdeaActionID>
           <ShortCut>'⌥⌘O'</ShortCut>
           <Description>Optimize Imports</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
