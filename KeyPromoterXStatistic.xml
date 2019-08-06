@@ -182,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>77</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -569,6 +569,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run ' Unit'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run '🧪 Unit'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'AAA @ DEV'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -806,14 +814,6 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
           <Description>Run 'with message opera...()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run ' Unit'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⇧F10'</ShortCut>
-          <Description>Run '🧪 Unit'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
