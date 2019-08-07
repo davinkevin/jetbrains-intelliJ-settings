@@ -254,7 +254,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>453</Count>
+          <Count>454</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -742,7 +742,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'SM'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Search'">
