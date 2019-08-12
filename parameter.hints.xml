@@ -19,6 +19,7 @@
         <added pattern="com.github.benmanes.caffeine.cache.Caffeine.refreshAfterWrite(duration,unit)" />
         <added pattern="com.github.tomakehurst.wiremock.client.WireMock.okJson(body)" />
         <added pattern="org.assertj.core.api.StringAssert.isEqualTo(expectedStringTemplate,args)" />
+        <added pattern="com.github.davinkevin.podcastserver.manager.worker.PodcastToUpdate(id,url,signature)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
