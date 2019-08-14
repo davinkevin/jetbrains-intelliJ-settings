@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -79,6 +79,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'GroupSyncConfigTest.should launch step groupSync (1)'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SMLinkUserToGroupFilterTest$WithExistingUser'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'SMLinkUserToGroupFilterTest$WithExistingUser'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SyncGroupToSMConfigTest'">
