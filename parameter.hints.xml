@@ -23,6 +23,7 @@
         <added pattern="com.airbus.intelligence.subscriptionmanagement.restclient.SubscriptionManagementRestClient.deactivateUser(userUuid)" />
         <added pattern="com.airbus.intelligence.subscriptionmanagement.restclient.SubscriptionManagementRestClient.activateUser(userUuid)" />
         <added pattern="com.nhaarman.mockitokotlin2.times(numInvocations)" />
+        <added pattern="com.airbus.intelligence.subscriptionmanagement.restclient.User(uuid,email,activated)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
