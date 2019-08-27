@@ -20,6 +20,9 @@
         <added pattern="com.github.tomakehurst.wiremock.client.WireMock.okJson(body)" />
         <added pattern="org.assertj.core.api.StringAssert.isEqualTo(expectedStringTemplate,args)" />
         <added pattern="com.github.davinkevin.podcastserver.manager.worker.PodcastToUpdate(id,url,signature)" />
+        <added pattern="com.airbus.intelligence.subscriptionmanagement.restclient.SubscriptionManagementRestClient.deactivateUser(userUuid)" />
+        <added pattern="com.airbus.intelligence.subscriptionmanagement.restclient.SubscriptionManagementRestClient.activateUser(userUuid)" />
+        <added pattern="com.nhaarman.mockitokotlin2.times(numInvocations)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
