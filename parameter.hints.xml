@@ -24,6 +24,7 @@
         <added pattern="com.airbus.intelligence.subscriptionmanagement.restclient.SubscriptionManagementRestClient.activateUser(userUuid)" />
         <added pattern="com.nhaarman.mockitokotlin2.times(numInvocations)" />
         <added pattern="com.airbus.intelligence.subscriptionmanagement.restclient.User(uuid,email,activated)" />
+        <added pattern="reactor.core.publisher.Flux.flatMap(mapper,concurrency)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
