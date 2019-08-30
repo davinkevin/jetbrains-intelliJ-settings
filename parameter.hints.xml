@@ -26,6 +26,7 @@
         <added pattern="com.airbus.intelligence.subscriptionmanagement.restclient.User(uuid,email,activated)" />
         <added pattern="reactor.core.publisher.Flux.flatMap(mapper,concurrency)" />
         <added pattern="reactor.netty.http.client.HttpClient.followRedirect(followRedirect)" />
+        <added pattern="org.jsoup.Jsoup.parse(in,charsetName,baseUri)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
