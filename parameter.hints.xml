@@ -25,6 +25,7 @@
         <added pattern="com.nhaarman.mockitokotlin2.times(numInvocations)" />
         <added pattern="com.airbus.intelligence.subscriptionmanagement.restclient.User(uuid,email,activated)" />
         <added pattern="reactor.core.publisher.Flux.flatMap(mapper,concurrency)" />
+        <added pattern="reactor.netty.http.client.HttpClient.followRedirect(followRedirect)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
